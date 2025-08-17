@@ -1,4 +1,4 @@
-# Excel-Project
+# Super_store-Excel-Project
 Excel end to end project.
 
 I'm excited to share my latest Excel Vindra Store Dashboard designed tor real-time performance tracking and analynis!🎯
